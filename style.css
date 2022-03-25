@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+     background-color:rgb(170, 89, 89);
+    font-family:Verdana;
+    color: lightcyan;
+}
+
+h1 {
+    font-size: 40px;
+    font-family:Verdana;
+    font-weight: 800;
+}
+
+#intro{
+    background-color: rgb(170, 89, 89);
+}
+
+#origami1{
+   background-color:rgb(170, 89, 89);
+}
+
+#origami2{
+  background-color:rgb(170, 89, 89); 
+}
+
+.line {
+    height: 6px;
+    background-color: rgb lightcyan;
+    width: 40px;
+    margin: 7px auto;
+}
+
+.image{
+    border-radius: 30px;
+}
+.h1{
+    font-size:90px;
+    font-weight: 800;}
+    .p{
+        font-size: 20px;
+         font-weight: 60;
+    }
